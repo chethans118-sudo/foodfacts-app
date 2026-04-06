@@ -1,3 +1,4 @@
+//APP.JSX
 import { useState } from 'react'
 import SearchBar from './components/SearchBar'
 import FoodList from './components/FoodList'
